@@ -32,6 +32,7 @@ public class Test045
 		System.out.print("\n<일반모델>\n");
 		switch(n)
 		{
+			//case문 쓸때 띄어쓰기 중요!!!!! case 띄고 상수 :이거는 붙여도 상관없음!!
 			case 1 : System.out.println("★"); break;
 			case 2 : System.out.println("★★"); break;
 			case 3 : System.out.println("★★★"); break;
