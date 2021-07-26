@@ -36,6 +36,7 @@ public class Test056
 
 	}
 }
+
 /*
 방법1
 ----*
