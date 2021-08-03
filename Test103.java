@@ -3,7 +3,7 @@
 // Sorted Data : 12 42 82 60 62
 // 계속하려면 아무 키나 누르세요....
 
-public class Test013
+public class Test103
 {
 	public static void main(String[] args)
 	{
