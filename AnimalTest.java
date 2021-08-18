@@ -49,6 +49,7 @@ public class AnimalTest
 		animal.move();
 	}
 }
+
 /*
 사람이 두 발로 뜁니다.
 호랑이가 네 발로 뜁니다.
